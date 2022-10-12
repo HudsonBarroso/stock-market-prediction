@@ -7,7 +7,7 @@ In order to achieve a great result, we will use the best available technologies 
 <p float="left"> 
 <img src="https://github.com/HudsonBarroso/stock-market-prediction/raw/main/images/tensorflow_logo.png" width="200">
 <img src="https://github.com/HudsonBarroso/stock-market-prediction/raw/main/images/plotly_logo.png" width="200">
-<img src="https://github.com/HudsonBarroso/stock-market-prediction/raw/main/images/yahoo_finance_Logo.png" width="200"">
+<img src="https://github.com/HudsonBarroso/stock-market-prediction/raw/main/images/yahoo_finance_Logo.png" width="200">
 </p>
 
 - 📚 **'Tensorflow official site'** - [link](https://www.tensorflow.org/)
@@ -26,7 +26,7 @@ The provided dataset is the stock market data from Yahoo!Ⓡ finance, using the 
 ### Results
 Previous Actual x Prediction
 
-<img src="https://github.com/HudsonBarroso/stock-market-prediction/raw/main/images/tesla_result.png" width="200"">
+<img src="https://github.com/HudsonBarroso/stock-market-prediction/raw/main/images/tesla_result.png" width="200">
 
 ## Model Deployment
 Thee Model Deployment gonna be developed in AWS Sagemaker
