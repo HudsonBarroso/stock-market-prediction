@@ -24,7 +24,9 @@ The provided dataset is the stock market data from Yahoo!Ⓡ finance, using the 
 3. Creating and Training a LSTM Sequential Model on Tensorflow
 
 ### Results
-On going
+Previous Actual x Prediction
+
+(https://github.com/apache/spark/tree/master/examples/src/main/tesla_result/)
 
 
 ## Model Deployment
