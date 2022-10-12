@@ -4,7 +4,8 @@ We gonna make stock market predictions based on past data
 
 In order to achieve a great result, we will use the best available technologies and methods through Deep Learning models
 
-<img src="https://github.com/HudsonBarroso/stock-market-prediction/raw/master/images/tensorflow_logo.png" width="390" align="right">
+<img src="https://github.com/HudsonBarroso/stock-market-prediction/images/tensorflow_logo.png" width="390" align="right">
+
 ---
 
 ## Dataset
