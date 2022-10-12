@@ -26,7 +26,7 @@ The provided dataset is the stock market data from Yahoo!Ⓡ finance, using the 
 ### Results
 Previous Actual x Prediction
 
-(https://github.com/apache/spark/tree/master/examples/src/main/tesla_result/)
+![Predictions](https://github.com/apache/spark/tree/master/examples/src/main/tesla_result/)
 
 
 ## Model Deployment
