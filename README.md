@@ -5,9 +5,11 @@ We gonna make stock market predictions based on past data
 In order to achieve a great result, we will use the best available technologies and methods through Deep Learning models
 
 
-<img src="https://github.com/HudsonBarroso/stock-market-prediction/raw/main/images/tensorflow_logo.png" width="33%" align="left">
-<img src="https://github.com/HudsonBarroso/stock-market-prediction/raw/main/images/plotly_logo.png" width="33%" align="left">
-<img src="https://github.com/HudsonBarroso/stock-market-prediction/raw/main/images/yahoo_finance_Logo.png" width="30%" align="left">
+<img src="https://github.com/HudsonBarroso/stock-market-prediction/raw/main/images/tensorflow_logo.png" width="200" align="left">
+<img src="https://github.com/HudsonBarroso/stock-market-prediction/raw/main/images/plotly_logo.png" width="200" align="left">
+<img src="https://github.com/HudsonBarroso/stock-market-prediction/raw/main/images/yahoo_finance_Logo.png" width="200" align="left">
+
+- 📚 my **'AWS Data Services'** Linked In Learning course - [link](https://www.linkedin.com/learning/amazon-web-services-data-services-2)
 
 
 
