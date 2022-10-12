@@ -7,8 +7,7 @@ In order to achieve a great result, we will use the best available technologies 
 
 <img src="https://github.com/HudsonBarroso/stock-market-prediction/raw/main/images/tensorflow_logo.png" width="33%" align="left">
 <img src="https://github.com/HudsonBarroso/stock-market-prediction/raw/main/images/plotly_logo.png" width="33%" align="left">
-<img src="https://github.com/HudsonBarroso/stock-market-prediction/raw/main/images/yahoo_finance_Logo.png" width="33%" align="left">
-
+<img src="https://github.com/HudsonBarroso/stock-market-prediction/raw/main/images/yahoo_finance_Logo.png" width="30%" align="left">
 
 
 
