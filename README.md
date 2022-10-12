@@ -10,9 +10,9 @@ In order to achieve a great result, we will use the best available technologies 
 <img src="https://github.com/HudsonBarroso/stock-market-prediction/raw/main/images/yahoo_finance_Logo.png" width="200"">
 </p>
 
-- 📚 **'Tensorflow official site'** Tensorflow official site - [link](https://www.tensorflow.org/)
-- 📚 **'Plotly official site'** Plotly official site - [link](https://plotly.com//)
-- 📚 **'Yahoo Finace API'** Yahoo Finace API-  [link](https://pypi.org/project/yfinance/)
+- 📚 **'Tensorflow official site'** - [link](https://www.tensorflow.org/)
+- 📚 **'Plotly official site'** - [link](https://plotly.com//)
+- 📚 **'Yahoo Finace API'** - [link](https://pypi.org/project/yfinance/)
 
 ## Dataset
 The provided dataset is the stock market data from Yahoo!Ⓡ finance, using the API yfinance
