@@ -26,9 +26,7 @@ The provided dataset is the stock market data from Yahoo!Ⓡ finance, using the 
 ### Results
 Previous Actual x Prediction
 
-<img src="https://github.com/HudsonBarroso/stock-market-prediction/raw/main/tesla_result.png" width=600>
-![Predictions](https://github.com/HudsonBarroso/stock-market-prediction/raw/main/tesla_result.png)
-
+<img src="https://github.com/HudsonBarroso/stock-market-prediction/raw/main/images/tesla_result.png" width="200"">
 
 ## Model Deployment
 Thee Model Deployment gonna be developed in AWS Sagemaker
